@@ -44,7 +44,6 @@ When Ba Kyaw met Win, he shared and discussed about this and both agreed to star
 to developing countries.
 Though, we can't stop the world demands for manufacturing, we would be able to reduce energy consumptions and environmental cleanliness
 in disposing used products from Japan by distributing them to where it can be recycled in various ways.
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 
 ## How to get started
 Please contact us by mail for quotation. And we will get back to you as soon as possible during 24 hours.
